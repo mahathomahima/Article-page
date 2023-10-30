@@ -21,7 +21,7 @@ const projectsList = [
     title: 'Music Page',
     description:
       'The music page enables the users to browse through the images of all-time favorite music albums.',
-    path: 'https://assets.ccbp.in/frontend/react-js/projects-s3-img.png',
+    path: 'https://mahathomahima.github.io/Musicpage-web/',
   },
   {
     projectId: 1,
@@ -30,8 +30,7 @@ const projectsList = [
     title: 'Tourism Website',
     description:
       'A tourism website enables the user to browse through the images of popular destinations.',
-    path:
-      'C:/Users/HI/OneDrive/Desktop/Static%20Project/1.%20Tourism%20Website/index.html',
+    path: 'https://mahathomahima.github.io/Toursim.web/',
   },
   {
     projectId: 2,
@@ -40,8 +39,7 @@ const projectsList = [
     title: 'Advanced Technologies',
     description:
       'A website that gives you a basic understanding of Advanced Technologies.',
-    path:
-      'C:/Users/HI/OneDrive/Desktop/Static%20Project/2.%20Article%20Page/index.html',
+    path: 'https://mahathomahima.github.io/VR-website/',
   },
   {
     projectId: 4,
@@ -50,6 +48,7 @@ const projectsList = [
     title: 'VR Website',
     description:
       'VR Website enables users to explore AR and VR Products and Industry happenings.',
+    path: 'fams.ccbp.tech',
   },
   {
     projectId: 5,
@@ -57,6 +56,7 @@ const projectsList = [
     imageURL: 'https://assets.ccbp.in/frontend/react-js/projects-r2-img.png',
     title: 'Food Munch',
     description: 'Food Much Website is a user-centric food tech website.',
+    path: 'todoappmahi.ccbp.tech',
   },
   {
     projectId: 6,
